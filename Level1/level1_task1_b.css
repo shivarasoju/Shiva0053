@@ -1,0 +1,14 @@
+.container{
+    margin: 20px;
+}
+.form-heading{
+    font-family: "Roboto";
+  font-size: 36px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.form-control{
+    width: 70%;
+    margin-bottom: 20px;
+
+}

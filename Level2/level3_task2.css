@@ -1,0 +1,195 @@
+.logo-image {
+    width: 100%;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.home-section {
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.main-para {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(11, 9, 14);
+}
+
+.aboutus-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(97, 82, 48);
+}
+
+.aboutus-para {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    font-style: normal;
+    color: blue;
+    align-self: center;
+}
+
+.description {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 400;
+    color: black;
+}
+
+.wcu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-card-image {
+    width: 87px;
+    height: 90px;
+}
+
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.intern-main-heading {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(97, 82, 48);
+}
+
+.intern-card {
+    margin: 10px;
+    padding: 15px;
+}
+
+.intern-desc {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    color: #877949;
+}
+
+.intern-heading {
+    font-family: "Roboto";
+    font-size: 27px;
+    font-weight: 400;
+    color: #877949;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}

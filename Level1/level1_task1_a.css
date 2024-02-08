@@ -1,0 +1,21 @@
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+.paragraph{
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+}
